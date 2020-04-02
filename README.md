@@ -13,4 +13,4 @@
 ## npm install react-color --save
 
 # vous pouvez consulter le live demo ci-après
- [https://codesandbox.io/s/github/abatalib/reactformtxt1
+ https://codesandbox.io/s/github/abatalib/reactformtxt1
