@@ -7,9 +7,9 @@
 > installer nodejs
 > installer yarn
 > après avoir cloné le projet localement, accéder à celui-ci via l'invite de commande puis
-> lancer la commande suivante
-## yarn
-## yarn start
+> lancer les commandes suivantes
+### yarn
+### yarn start
 
 # vous pouvez consulter le live demo ci-après
  https://codesandbox.io/s/github/abatalib/reactformtxt1
