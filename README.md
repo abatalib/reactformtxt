@@ -4,7 +4,10 @@
 > le but de ce module entre autres est de se familiariser avec la structure d'un projet ReactJS
 
 # Comment le faire fonctionner
-> après avoir installer ReactJS et lancement du serveur à partir du dossier cloné
- 
-> installer le package suivant
+> installer nodejs
+> après avoir cloné le projet localement, accéder à celui-ci via l'invite de commande
+> lancer la commande suivante
+## yarn
+
+> ensuite installer le package suivant
 ## npm install react-color --save
