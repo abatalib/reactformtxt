@@ -5,7 +5,7 @@
 
 # Comment le faire fonctionner
 > installer nodejs
-> après avoir cloné le projet localement, accéder à celui-ci via l'invite de commande
+> après avoir cloné le projet localement, accéder à celui-ci via l'invite de commande puis
 > lancer la commande suivante
 ## yarn
 
