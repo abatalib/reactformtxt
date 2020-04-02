@@ -5,12 +5,11 @@
 
 # Comment le faire fonctionner
 > installer nodejs
+> installer yarn
 > après avoir cloné le projet localement, accéder à celui-ci via l'invite de commande puis
 > lancer la commande suivante
 ## yarn
-
-> ensuite installer le package suivant
-## npm install react-color --save
+## yarn start
 
 # vous pouvez consulter le live demo ci-après
  https://codesandbox.io/s/github/abatalib/reactformtxt1
